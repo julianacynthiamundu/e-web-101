@@ -1,0 +1,39 @@
+nav {
+
+	width: 100%;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+
+
+}
+
+#nav {
+	color: #008000;
+	font-size: 20px;
+}
+
+.spacer {
+	margin-left: auto;
+}
+
+nav a {
+
+	text-decoration: none;
+}
+
+nav .logo {
+	align-self: start;
+}
+
+.heading-wrapper{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content:center;
+}
+
+.heading{
+	color: pink;
+}
